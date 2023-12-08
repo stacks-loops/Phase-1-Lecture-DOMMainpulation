@@ -13,10 +13,12 @@ By the end of today's lecture, you will be able to grab elements from the DOM an
 2. Grab the `<h1>` tag from the DOM and change its color.
     - What are the different ways to grab the tag?
 3. Grab the `<p>` tag from the DOM and replace its filler text with real text.
+    - What is the difference between `innerHTML` and `textContent`?
 4. Create a list of 5 numbers and add them to the `<ol>` tag.
     - How do you know which tag to use?
+    - What is the difference between `append` and `appendChild`?
     - Can you make this list more efficiently?
-5. Remove the final list element from the DOM.
+5. Remove the final `<p>` tag from the page.
 
 ## Looking Ahead
 
